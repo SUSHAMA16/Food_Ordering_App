@@ -1,0 +1,75 @@
+/* DebitCardForm.css */
+
+.debit-card-form {
+    width: 300px;
+    margin: auto;
+    padding: 20px;
+    border: 1px solid black;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    font-family: 'Arial', sans-serif;
+    background-color: silver
+
+  
+  }
+
+  .title{
+    width: 250px;
+    margin: auto;
+    padding: 20px;
+    
+    
+  }
+  
+  .name{
+    font-size: 14px;
+    font-family: 'Arial', sans-serif;
+    margin-bottom: 5px;
+  }
+
+  .date{
+    font-size: 14px;
+    font-family: 'Arial', sans-serif;
+    margin-bottom: 5px;
+  }
+
+  .number{
+    font-size: 14px;
+    font-family: 'Arial', sans-serif;
+    margin-bottom: 5px;
+  }
+
+  .code{
+    font-size: 14px;
+    font-family: 'Arial', sans-serif;
+    margin-bottom: 5px;
+  }
+
+  .card-background{
+    background: linear-gradient(to right, #00b4db, #0083b0);
+     color: #fff;
+  }
+  
+  input {
+    width: 100%;
+    padding: 8px;
+    box-sizing: border-box;
+    margin-bottom: 15px;
+  }
+  
+  button {
+    background-color: #3498db;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    
+  }
+  
+  button:hover {
+    background-color: #2980b9;
+  }
+  
+  /* Add additional styling as needed */
+  
